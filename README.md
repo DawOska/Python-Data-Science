@@ -28,7 +28,11 @@
     ...rest in progress :)
     </ul>
 <h3>Course "Python for intermediate" by Rafał Modulo</h3>
+<p>
+  <ul>
 ...in near future <br>
+    </ul>
+  <p>
 <h3>Course "Machine learning" by Rafał Modulo</h3>
 ...in future <br>
 Python 3.11 <br>

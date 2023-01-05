@@ -4,7 +4,7 @@
   <ul>
     <li>Installation of Python tools</li>
     <li>Advanced types</li>
-    <ol>
+    <ol type='1'>
       <li>Lists</li>
       <li>Tuples</li>
       <li>Dictionaries</li>

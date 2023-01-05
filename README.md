@@ -39,6 +39,5 @@
 ...in future <br>
     </ul>
     </p>
-Python 3.11 <br>
-Description: 
+Python version: 3.11 <br>
 </h4>

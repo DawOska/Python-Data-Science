@@ -10,6 +10,8 @@
       <li>Dictionaries</li>
     </ol>
     <li>Conditional Statements</li>
+    <li>Loops</li>
+    <li>advanced types</li>
   </ul>
 Python 3.11 <br>
 Description: 

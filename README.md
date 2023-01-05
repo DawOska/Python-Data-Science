@@ -11,7 +11,10 @@
     </ol>
     <li>Conditional Statements</li>
     <li>Loops</li>
-    <li>advanced types</li>
+    <li>Advanced types</li>
+    <li>Functions</li>
+    <li>Input/Output operations</li>
+    <li>Errors and Exceptions</li>
   </ul>
 Python 3.11 <br>
 Description: 

@@ -19,8 +19,12 @@
   </ul>
   </p>
 <h3> Course "Data Science: Data analysis in Python and PANDAS" by Rafał Modulo </h3>
-<h4>
+<p>
   <ul>
+    <li>Preparation of the environment for data analysis</li>
+    <li>Module PANDAS</li>
+    <li>Data Seriees</li>
+    <li>Data Frame</li>
 Python 3.11 <br>
 Description: 
 </h4>

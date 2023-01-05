@@ -27,8 +27,8 @@
     <li>Data Frame</li>
     ...rest in progress :)
     </ul>
-<h3>Python for intermediate</h3>
-<
+<h3>Course "Python for intermediate"</h3>
+...in near future
 Python 3.11 <br>
 Description: 
 </h4>

@@ -1,6 +1,6 @@
 # Python - Data Science
 <h2>Learning Data Science from Udemy.</h2>
-<h3><b>Course "Python for beginners" by Rafał Modulo</b></h3>
+<h3>Course "Python for beginners" by Rafał Modulo</h3>
 <h4>
   <ul>
     <li>Installation of Python tools</li>

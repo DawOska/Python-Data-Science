@@ -1,6 +1,7 @@
 # Python - Data Science
-<h3>Learning Basics Python from Udemy.</h2>
-<h4>Course "Python for beginners" by Rafał Modulo<br>
+<h2>Learning Basics Python from Udemy.</h2>
+<h4>Course "Python for beginners" by Rafał Modulo</h4><br>
+<h3>
   <ul>
     <li>Installation of Python tools</li>
     <li>Advanced types</li>
@@ -16,6 +17,7 @@
     <li>Input/Output operations</li>
     <li>Errors and Exceptions</li>
   </ul>
+</h3>
 Python 3.11 <br>
 Description: 
 </h4>

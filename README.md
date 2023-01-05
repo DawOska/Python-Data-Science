@@ -33,8 +33,12 @@
 ...in near future <br>
     </ul>
   <p>
-<h3>Course "Machine learning" by Rafał Modulo</h3>
+<h3>Course "Machine learning for beginners. Basics, perceptron, regression" by Rafał Modulo</h3>
+<p>
+  <ul>
 ...in future <br>
+    </ul>
+    </p>
 Python 3.11 <br>
 Description: 
 </h4>

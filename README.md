@@ -25,8 +25,10 @@
     <li>Module PANDAS</li>
     <li>Data Seriees</li>
     <li>Data Frame</li>
-    Rest in progress :)
+    ...rest in progress :)
     </ul>
+<h3>Python for intermediate</h3>
+<
 Python 3.11 <br>
 Description: 
 </h4>
